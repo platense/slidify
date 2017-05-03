@@ -1,0 +1,29 @@
+---
+title       : Prueba 1
+subtitle    : Subtitulo de prueba 1
+author      : Ricardo Rios
+job         : Profesor
+framework   : io2012      # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [mathjax]     # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+logo        : minerva.png
+---
+
+## Read-And-Delete
+
+1. Edit YAML front matter
+2. Write using R Markdown
+3. Use an empty line followed by three dashes to separate slides!
+
+--- .class #id 
+
+## Slide 2
+
+Presentación 2
+
+---
+
+
