@@ -59,12 +59,12 @@ sum(1:10)
 
 
 ```r
-x <- rnorm(25)
-y <- rnorm(25)
+x <- rnorm(20)
+y <- rnorm(20)
 
 plot(x, y )
 ```
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png)
+![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2-1.png)
 
 ---
