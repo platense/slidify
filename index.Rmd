@@ -24,6 +24,10 @@ logo        : minerva.png
 
 Presentación 2
 
+Prueba 
+
+$ x^2 $
+
 ---
 
 
