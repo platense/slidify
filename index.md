@@ -26,10 +26,45 @@ Presentación 2
 
 Prueba 
 
-$ x^2 + 5 $
+$$ x^2 + 5 $$
 
 
 
 ---
 
 
+### Slide 3
+
+
+```r
+sum(1:10)
+```
+
+```
+## [1] 55
+```
+
+```r
+10*(11)/2
+```
+
+```
+## [1] 55
+```
+
+---
+
+
+### Slide 4
+
+
+```r
+x <- rnorm(25)
+y <- rnorm(25)
+
+plot(x, y )
+```
+
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png)
+
+---
