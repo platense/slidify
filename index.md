@@ -72,4 +72,6 @@ plot(x, y )
 ### Slide 5 
 jjjskd
 
+$$ x^2^2 $$
+
 --- 
