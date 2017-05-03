@@ -26,7 +26,9 @@ Presentación 2
 
 Prueba 
 
-$ x^2 $
+$ x^2 + 5 $
+
+
 
 ---
 
